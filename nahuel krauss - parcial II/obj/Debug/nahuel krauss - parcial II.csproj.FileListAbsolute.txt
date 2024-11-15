@@ -1,0 +1,7 @@
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\bin\Debug\nahuel krauss - parcial II.exe.config
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\bin\Debug\nahuel krauss - parcial II.exe
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\bin\Debug\nahuel krauss - parcial II.pdb
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\obj\Debug\nahuel krauss - parcial II.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\obj\Debug\nahuel krauss - parcial II.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\obj\Debug\nahuel krauss - parcial II.exe
+C:\Users\nahue\source\repos\nahuel krauss - parcial II\nahuel krauss - parcial II\obj\Debug\nahuel krauss - parcial II.pdb
